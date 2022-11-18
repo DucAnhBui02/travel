@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6ab42110.css",
+    "main.js": "./static/js/main.3045dc27.js",
+    "static/js/787.46e9541c.chunk.js": "./static/js/787.46e9541c.chunk.js",
+    "static/media/travel1.png": "./static/media/travel1.ecf5cc7479d19e172fa4.png",
+    "static/media/travel3.jpg": "./static/media/travel3.dcfba1246b445d8a0603.jpg",
+    "static/media/travel2.png": "./static/media/travel2.c504638437de453f585b.png",
+    "static/media/travel4.jpg": "./static/media/travel4.82057a1c69be3ecc1e9f.jpg",
+    "static/media/travel7.jpg": "./static/media/travel7.e85addcc0ff3916ec897.jpg",
+    "static/media/travel8.jpg": "./static/media/travel8.39f01f2370f02dfe0570.jpg",
+    "static/media/travel9.jpg": "./static/media/travel9.2cf7caf4f167b4f51c03.jpg",
+    "static/media/travel5.jpg": "./static/media/travel5.421c8149b04ce2fa36c7.jpg",
+    "static/media/travel6.jpg": "./static/media/travel6.78413df74dd1a0e07e86.jpg",
+    "static/media/ttw-logo.png": "./static/media/ttw-logo.ab93841b19b232857b0a.png",
+    "index.html": "./index.html",
+    "main.6ab42110.css.map": "./static/css/main.6ab42110.css.map",
+    "main.3045dc27.js.map": "./static/js/main.3045dc27.js.map",
+    "787.46e9541c.chunk.js.map": "./static/js/787.46e9541c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab42110.css",
+    "static/js/main.3045dc27.js"
+  ]
+}
